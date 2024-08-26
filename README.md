@@ -1,6 +1,7 @@
 AutoSpec 文件夹自带测试集
 
-LLM4SA 文件夹只有源文件，剩下的所有是该工作的测试集  
+LLM4SA 文件夹只有源文件，剩下的所有是该工作的测试集,juliet测试集+3个实时操作系统+11个开源程序
+https://github.com/zephyrproject-rtos/zephyr/tree/zephyr-v2.1.0 zephyr 2.1.0  
 https://github.com/RIOT-OS/RIOT/tree/2020.04  RIOT  
 https://github.com/OpenAtomFoundation/TobudOS/tree/v2.5.0 tecentos-tiny下载的2.5.0最新版  
 https://ftp.gnu.org/gnu/gawk/ gawk 4.1.2  
